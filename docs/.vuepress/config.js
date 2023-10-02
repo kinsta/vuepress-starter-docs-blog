@@ -1,6 +1,7 @@
 module.exports = {
 	title: 'Kinsta Vuepress',
 	description: 'A VuePress QuickStart for Kinsta',
+	dest: '.public',
 	themeConfig: {
 		nav: [
 			{
