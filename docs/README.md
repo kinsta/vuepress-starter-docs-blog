@@ -10,5 +10,5 @@ actionLink: /guide/
 <HostingBanner />
 
 ::: slot footer
-Made by  with ❤️ by Kinsta. [Static Site Hosting](https://kinsta.com/static-site-hosting/)
+Made with ❤️ by Kinsta. [Static Site Hosting](https://kinsta.com/static-site-hosting/)
 :::
