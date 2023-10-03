@@ -1,4 +1,4 @@
-![how-to-build-and-deploy-chatgpt-clone-application-with-react-and-openai-api](https://github.com/olawanlejoel/chatgpt-clone/assets/57611810/dd015c17-9065-44d4-aaad-3eb591264c1d)
+![vuepress-demo](https://github.com/olawanlejoel/vuepress-starter-docs-blog/assets/57611810/91408846-d90b-4516-ac1e-25e017af763d)
 
 # Create and Customize a Fast Documentation and Blog Site With VuePress
 
