@@ -1,4 +1,4 @@
-![vuepress-demo](https://github.com/olawanlejoel/vuepress-starter-docs-blog/assets/57611810/91408846-d90b-4516-ac1e-25e017af763d)
+![vuepress](https://github.com/olawanlejoel/vuepress-starter-docs-blog/assets/57611810/3c3605fe-133c-45c7-9320-5ea097e0be76)
 
 # Create and Customize a Fast Documentation and Blog Site With VuePress
 
